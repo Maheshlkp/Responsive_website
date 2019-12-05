@@ -42,6 +42,22 @@ html,body{
   padding-bottom: 1rem;
 }
 
+.btn-primary{
+  background-color: #6648b1;
+  border: 1px solid #6648b1;
+}
+
+.btn-primary:hover{
+  background-color: #563d56;
+  border: 1px solid #563d56;
+}
+
+.jumbotron{
+  padding: 1rem;
+  border-radius:0;
+}
+
+
 
 
 
